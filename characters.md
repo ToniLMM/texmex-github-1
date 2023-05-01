@@ -1,4 +1,4 @@
-Peggy Jean
-Eudora
-Franklin
-Pig-Pen
+Charlie Brown
+Patty
+Shermy
+Snoopy
